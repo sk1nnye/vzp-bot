@@ -80,4 +80,3 @@ def get_time_left(channel_id):
             return timer_name, f"{hours} часов {minutes} минут"
     return "нет активных таймеров", ""
 
-bot.run('MTE5OTEwNTM0MDg2NDczNzM1MA.GFPmvq.IpRDPDutemZ3mBxMYC_2S97AuvY9sHYk73w0u8')
